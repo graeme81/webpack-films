@@ -9,7 +9,7 @@
     "webpack": "^1.14.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
     "test": "mocha client/src/models/specs"
   },
   "author": "",
